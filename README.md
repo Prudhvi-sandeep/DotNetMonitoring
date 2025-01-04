@@ -607,10 +607,7 @@ pipeline{
 ```
 
 ---
+Author : <h2>PRUDHVI SANDEEP MUDIDANA </h2>
 
-### Author by
 
-![](https://imgur.com/2j6Aoyl.png)
 
-> [!Note]
-> Join Our [Telegram Community](https://t.me/prodevopsguy) || [Follow me](https://github.com/NotHarshhaa) for more DevOps Content
